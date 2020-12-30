@@ -1,2 +1,1 @@
-# blog_images
-my blog images
+https://cdn.jsdelivr.net/gh/Tajang-ctf/blog_images/图片名
